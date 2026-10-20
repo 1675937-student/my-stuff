@@ -4,7 +4,7 @@ namespace voice {
     //% shim=voice::setup
     export function setup(): void {}
     //% shim=voice::setDevice
-    export function setDevice(id: 1): void {}
+    export function setDevice(id:1): void {}
     //% shim=voice::startCapture
     export function startCapture(): void {}
     //% shim=voice::stopCapture
